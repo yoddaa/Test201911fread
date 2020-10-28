@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Test201911fread",
+"productVersion": "0.1",
+"dataUrl": "YudJsonUrlTester.data.unityweb",
+"wasmCodeUrl": "YudJsonUrlTester.wasm.code.unityweb",
+"wasmFrameworkUrl": "YudJsonUrlTester.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
